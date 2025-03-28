@@ -1,0 +1,18 @@
+[
+  {
+    "usuarioId": "ObjectID",
+    "nombreCompleto": "String",
+    "documentoIdentidad": "String",
+    "rolId": "ObjectID",
+    "credenciales": {
+      "hashPassword": "String",
+      "tokens": ["String"]
+    },
+    "historialViajes": [
+      {
+        "viajeId": "ObjectID",
+        "detalle": "String"
+      }
+    ]
+  }
+]

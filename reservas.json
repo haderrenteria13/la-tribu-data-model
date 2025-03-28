@@ -1,0 +1,10 @@
+[
+  {
+    "reservaId": "ObjectID",
+    "clienteId": "ObjectID",
+    "programacionId": "ObjectID",
+    "fechaReserva": "Date",
+    "tipoServicio": "String",
+    "estadoReserva": "String"
+  }
+]

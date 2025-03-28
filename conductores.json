@@ -1,0 +1,9 @@
+[
+  {
+    "conductorId": "ObjectID",
+    "nombre": "String",
+    "licenciaConduccion": "String",
+    "contacto": "String",
+    "validacionAntecedentes": "Boolean"
+  }
+]

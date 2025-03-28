@@ -1,0 +1,10 @@
+[
+  {
+    "programacionId": "ObjectID",
+    "rutaId": "ObjectID",
+    "vehiculoId": "ObjectID",
+    "conductorId": "ObjectID",
+    "fechaHoraSalida": "Timestamp",
+    "fechaHoraLlegada": "Timestamp"
+  }
+]

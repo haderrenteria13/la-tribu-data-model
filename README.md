@@ -3,6 +3,10 @@
 ## Descripción del Proyecto
 La Tribu es una empresa de transporte de pasajeros que conecta el municipio de Bagadó, Chocó, con la ciudad de Medellín y otros destinos. Este proyecto busca diseñar una base de datos NoSQL que digitalice sus procesos, mejorando la seguridad, eficiencia y control de la información.
 
+Link Diagrama: https://www.figma.com/design/iroarw7BrnrsuEPKglhfnC/Database-Diagram-Builder-(Community)?node-id=11-376&t=kDl1xBSzH2rCQgvw-1
+
+![ARCHITECTURE](https://github.com/user-attachments/assets/59806980-11b6-4a3f-97b4-4946063ef3ba)
+
 ---
 
 ## Modelo de Datos
@@ -13,7 +17,6 @@ La Tribu es una empresa de transporte de pasajeros que conecta el municipio de B
 - **Boolean**: Para valores verdaderos o falsos.
 - **Date**: Para fechas específicas.
 - **Timestamp**: Para fechas con marca de tiempo precisa.
-- **Null**: Para campos sin valor.
 - **Array**: Para listas de elementos.
 - **Object**: Para documentos embebidos.
 - **ObjectID**: Identificadores únicos generados por MongoDB.
@@ -45,7 +48,7 @@ El acceso a los datos se realizará a través de una API que facilite operacione
 │
 ├── 📂 docs
 │   ├── DATA_MODEL.md        # Explicación detallada del modelo de datos
-│   └── ARCHITECTURE.md      # Estructura general de la aplicación
+│   └── ARCHITECTURE.jpg      # Estructura general de la aplicación
 │   
 │
 ├── 📂 data

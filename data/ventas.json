@@ -1,0 +1,10 @@
+[
+  {
+    "ventaId": "ObjectID",
+    "clienteId": "ObjectID",
+    "reservaId": "ObjectID",
+    "monto": "Double",
+    "fechaVenta": "Date",
+    "detalleServicio": "String"
+  }
+]

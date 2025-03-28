@@ -1,8 +1,0 @@
-[
-  {
-    "rutaId": "ObjectID",
-    "origen": "String",
-    "destino": "String",
-    "horariosDisponibles": ["String"]
-  }
-]

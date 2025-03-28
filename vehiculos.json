@@ -1,9 +1,0 @@
-[
-  {
-    "vehiculoId": "ObjectID",
-    "placa": "String",
-    "modelo": "String",
-    "capacidad": "Integer",
-    "estado": "String"
-  }
-]
